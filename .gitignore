@@ -1,8 +1,0 @@
-# dependencies
-/.gradle
-/.idea
-/gradle
-
-
-# production
-/build
