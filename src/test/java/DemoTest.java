@@ -122,7 +122,6 @@ public class DemoTest {
     }
 
     // All equal numbers
-    // Should chatch exception in main() condition
     @Test
     public void test_is_triangle_22() {
         assertTrue(Demo.isTriangle(3, 3, 3));
