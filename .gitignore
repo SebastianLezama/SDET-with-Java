@@ -1,0 +1,11 @@
+# dependencies
+/.gradle
+/.idea
+/gradle
+
+# production
+/build
+./build.gradle
+./gradlew
+./gradlew.bat
+./settings.gradle
