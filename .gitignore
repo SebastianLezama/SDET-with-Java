@@ -1,11 +1,11 @@
 # dependencies
-/.gradle
-/.idea
-/gradle
+Assignment_1/.gradle
+Assignment_1/.idea
+Assignment_1/gradle
 
 # production
-/build
-./build.gradle
-./gradlew
-./gradlew.bat
-./settings.gradle
+Assignment_1/build
+Assignment_1/build.gradle
+Assignment_1/gradlew
+Assignment_1/gradlew.bat
+Assignment_1/settings.gradle
